@@ -6,4 +6,4 @@
 
 __Start editing__
 
-## This is a work in progress
+## This is a work in progress.
